@@ -1,7 +1,7 @@
 # HOW TO INSTALL
 
 ### In the Unity Editor: Window → Package Management → Package Manager then either **Install package from disk** or **Install package from git URL**
-* Either option works it just depends on how you want to install the package
+Either option works it just depends on how you want to install the package
 
 # ALTERNATIVE INSTALLATION
 
