@@ -1,0 +1,7 @@
+{
+  "name": "com.local.autorefresh.Editor",
+  "references": [],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "autoReferenced": false
+}

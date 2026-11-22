@@ -1,0 +1,7 @@
+{
+  "name": "com.local.autorefresh",
+  "version": "1.0.0",
+  "displayName": "Auto Refresh On Save (Linux)",
+  "description": "Watches Assets for script changes and calls AssetDatabase.Refresh(), working around Directory Monitoring being Windows-only.",
+  "unity": "2019.4"
+}
